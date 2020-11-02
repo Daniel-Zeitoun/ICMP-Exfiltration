@@ -1,3 +1,3 @@
 # ICMP-Exfiltration
 
-This is an implementation of Icmp Tunneling Attack in Python.
+This is a Python implementation of Icmp Tunneling Attack.
